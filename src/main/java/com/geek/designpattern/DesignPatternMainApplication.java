@@ -8,9 +8,9 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  *
  */
 @SpringBootApplication
-public class ThreadandjucMainApplication
+public class DesignPatternMainApplication
 {
     public static void main(String[] args) throws Exception {
-        SpringApplication.run(ThreadandjucMainApplication.class, args);
+        SpringApplication.run(DesignPatternMainApplication.class, args);
     }
 }
