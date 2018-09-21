@@ -24,6 +24,9 @@
 
 ![外观](http://i4.bvimg.com/601558/b2c4fb3b1ab63a1c.png)
 
+4.装饰者模式
+
+![装饰者](http://i4.bvimg.com/601558/7e469972bb15748e.png)
 
 
 

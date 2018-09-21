@@ -2,13 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e8696a4b-ad89-4596-a8c1-05172f8e6871" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/geek/designpattern/structural/facade/subsystem/CPU.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/geek/designpattern/structural/facade/subsystem/Computer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/geek/designpattern/structural/facade/subsystem/Disk.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/geek/designpattern/structural/facade/subsystem/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/geek/designpattern/decorator/v1/Battercake.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/geek/designpattern/decorator/v1/BattercakeWithEgg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/geek/designpattern/decorator/v1/BattercakeWithEggSausage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/geek/designpattern/decorator/v1/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/geek/designpattern/decorator/v2/ABattercake.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/geek/designpattern/decorator/v2/AbstractDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/geek/designpattern/decorator/v2/Battercake.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/geek/designpattern/decorator/v2/EggDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/geek/designpattern/decorator/v2/SausageDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/geek/designpattern/decorator/v2/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/geek/designpattern/prototype/clone/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/geek/designpattern/prototype/clone/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geek/designpattern/structural/facade/subsystem/structural/facade/Computer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geek/designpattern/structural/facade/subsystem/structural/facade/test.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -36,32 +43,33 @@
         <counts>
           <entry key="class" value="4" />
           <entry key="facade" value="1" />
-          <entry key="java" value="26" />
-          <entry key="md" value="3" />
+          <entry key="java" value="38" />
+          <entry key="md" value="4" />
           <entry key="subsystem" value="3" />
+          <entry key="v2" value="1" />
           <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="4" />
-          <entry key="JAVA" value="26" />
-          <entry key="Markdown" value="3" />
-          <entry key="UML" value="4" />
+          <entry key="JAVA" value="38" />
+          <entry key="Markdown" value="4" />
+          <entry key="UML" value="5" />
           <entry key="XML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="15" />
-          <entry key="java" value="3640" />
-          <entry key="md" value="203" />
+          <entry key="java" value="4246" />
+          <entry key="md" value="215" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="3640" />
-          <entry key="Markdown" value="203" />
+          <entry key="JAVA" value="4246" />
+          <entry key="Markdown" value="215" />
           <entry key="PLAIN_TEXT" value="15" />
         </counts>
       </usages-collector>
@@ -75,111 +83,176 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="522">
-              <caret line="24" column="53" selection-start-line="24" selection-start-column="53" selection-end-line="24" selection-end-column="53" />
+            <state relative-caret-position="361">
+              <caret line="28" column="54" selection-start-line="28" selection-start-column="54" selection-end-line="28" selection-end-column="54" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/geek/designpattern/structural/facade/subsystem/CPU.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/geek/designpattern/decorator/v2/Battercake.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+            <state relative-caret-position="198">
+              <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
               <folding>
-                <element signature="e#107#108#0" expanded="true" />
-                <element signature="e#156#157#0" expanded="true" />
-                <element signature="e#182#183#0" expanded="true" />
-                <element signature="e#233#234#0" expanded="true" />
+                <element signature="e#137#138#0" expanded="true" />
+                <element signature="e#164#165#0" expanded="true" />
+                <element signature="e#206#207#0" expanded="true" />
+                <element signature="e#230#231#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/geek/designpattern/structural/facade/subsystem/test.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="6" column="31" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="9" selection-start-line="9" selection-end-line="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/geek/designpattern/structural/facade/subsystem/Computer.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/geek/designpattern/decorator/v2/AbstractDecorator.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="110">
-              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+              <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#219#220#0" expanded="true" />
+                <element signature="e#264#265#0" expanded="true" />
+                <element signature="e#162#163#0" expanded="true" />
+                <element signature="e#189#190#0" expanded="true" />
+                <element signature="e#395#396#0" expanded="true" />
+                <element signature="e#444#445#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/geek/designpattern/structural/facade/subsystem/Disk.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/geek/designpattern/decorator/v1/Battercake.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="9" column="5" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="9" selection-end-column="5" />
+            <state relative-caret-position="44">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
               <folding>
-                <element signature="e#103#104#0" expanded="true" />
-                <element signature="e#139#140#0" expanded="true" />
-                <element signature="e#182#183#0" expanded="true" />
-                <element signature="e#218#219#0" expanded="true" />
+                <element signature="e#102#103#0" expanded="true" />
+                <element signature="e#129#130#0" expanded="true" />
+                <element signature="e#155#156#0" expanded="true" />
+                <element signature="e#178#179#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/geek/designpattern/prototype/abstrtactprototype/B.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/geek/designpattern/prototype/Mail.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="682">
-              <caret line="45" column="36" selection-start-line="45" selection-start-column="36" selection-end-line="45" selection-end-column="36" />
-              <folding>
-                <element signature="e#536#537#0" expanded="true" />
-                <element signature="e#584#585#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/geek/designpattern/prototype/MailUtil.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/geek/designpattern/singleton/Test.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/geek/designpattern/decorator/v1/BattercakeWithEggSausage.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="242">
-              <caret line="12" selection-start-line="12" selection-end-line="12" />
+              <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#158#159#0" expanded="true" />
+                <element signature="e#196#197#0" expanded="true" />
+                <element signature="e#246#247#0" expanded="true" />
+                <element signature="e#282#283#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/geek/designpattern/decorator/v1/Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/geek/designpattern/decorator/v1/BattercakeWithEgg.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="10" column="29" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+              <folding>
+                <element signature="e#142#143#0" expanded="true" />
+                <element signature="e#180#181#0" expanded="true" />
+                <element signature="e#222#223#0" expanded="true" />
+                <element signature="e#257#258#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/geek/designpattern/decorator/v2/EggDecorator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
+              <folding>
+                <element signature="e#166#167#0" expanded="true" />
+                <element signature="e#200#201#0" expanded="true" />
+                <element signature="e#248#249#0" expanded="true" />
+                <element signature="e#286#287#0" expanded="true" />
+                <element signature="e#328#329#0" expanded="true" />
+                <element signature="e#363#364#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="uml://JAVA/com.geek.designpattern.decorator.v2">
+          <provider selected="true" editor-type-id="UmlEditorProvider">
+            <state>
+              <ID>JAVA</ID>
+              <OriginalElement>com.geek.designpattern.decorator.v2</OriginalElement>
+              <nodes>
+                <node x="330.0" y="0.0">com.geek.designpattern.decorator.v2.ABattercake</node>
+                <node x="292.0" y="300.0">com.geek.designpattern.decorator.v2.SausageDecorator</node>
+                <node x="0.0" y="300.0">com.geek.designpattern.decorator.v2.EggDecorator</node>
+                <node x="134.0" y="126.0">com.geek.designpattern.decorator.v2.AbstractDecorator</node>
+                <node x="466.0" y="150.0">com.geek.designpattern.decorator.v2.Battercake</node>
+              </nodes>
+              <notes />
+              <edges>
+                <edge source="com.geek.designpattern.decorator.v2.EggDecorator" target="com.geek.designpattern.decorator.v2.AbstractDecorator">
+                  <point x="0.0" y="-50.0" />
+                  <point x="136.0" y="275.0" />
+                  <point x="212.0" y="275.0" />
+                  <point x="-78.0" y="62.0" />
+                </edge>
+                <edge source="com.geek.designpattern.decorator.v2.SausageDecorator" target="com.geek.designpattern.decorator.v2.AbstractDecorator">
+                  <point x="0.0" y="-50.0" />
+                  <point x="444.0" y="275.0" />
+                  <point x="368.0" y="275.0" />
+                  <point x="78.0" y="62.0" />
+                </edge>
+                <edge source="com.geek.designpattern.decorator.v2.AbstractDecorator" target="com.geek.designpattern.decorator.v2.ABattercake">
+                  <point x="0.0" y="-62.0" />
+                  <point x="290.0" y="101.0" />
+                  <point x="378.0" y="101.0" />
+                  <point x="-48.0" y="38.0" />
+                </edge>
+                <edge source="com.geek.designpattern.decorator.v2.Battercake" target="com.geek.designpattern.decorator.v2.ABattercake">
+                  <point x="0.0" y="-38.0" />
+                  <point x="562.0" y="101.0" />
+                  <point x="474.0" y="101.0" />
+                  <point x="48.0" y="38.0" />
+                </edge>
+              </edges>
+              <settings layout="Hierarchic Group" zoom="1.0" x="-257.5" y="-12.0" />
+              <SelectedNodes>
+                <node>com.geek.designpattern.decorator.v2.Battercake</node>
+              </SelectedNodes>
+              <Categories>
+                <Category>Fields</Category>
+                <Category>Constructors</Category>
+                <Category>Methods</Category>
+                <Category>Properties</Category>
+              </Categories>
+              <SCOPE>All</SCOPE>
+              <VISIBILITY>private</VISIBILITY>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/geek/designpattern/decorator/v2/Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -232,6 +305,16 @@
         <option value="$PROJECT_DIR$/src/main/java/com/geek/designpattern/structural/facade/subsystem/structural/facade/Computer.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/geek/designpattern/structural/facade/subsystem/structural/facade/test.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/geek/designpattern/structural/facade/subsystem/test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/geek/designpattern/decorator/v2/Battercake.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/geek/designpattern/decorator/v2/ABattercake.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/geek/designpattern/decorator/v2/SausageDecorator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/geek/designpattern/decorator/v2/EggDecorator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/geek/designpattern/decorator/v2/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/geek/designpattern/decorator/v2/AbstractDecorator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/geek/designpattern/decorator/v1/Battercake.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/geek/designpattern/decorator/v1/BattercakeWithEgg.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/geek/designpattern/decorator/v1/BattercakeWithEggSausage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/geek/designpattern/decorator/v1/Test.java" />
         <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
@@ -302,7 +385,27 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="designpattern" type="462c0819:PsiDirectoryNode" />
-              <item name="subsystem" type="462c0819:PsiDirectoryNode" />
+              <item name="decorator" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="designpattern23" type="b2602c69:ProjectViewProjectNode" />
+              <item name="designpattern23" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="designpattern" type="462c0819:PsiDirectoryNode" />
+              <item name="decorator" type="462c0819:PsiDirectoryNode" />
+              <item name="v1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="designpattern23" type="b2602c69:ProjectViewProjectNode" />
+              <item name="designpattern23" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="designpattern" type="462c0819:PsiDirectoryNode" />
+              <item name="decorator" type="462c0819:PsiDirectoryNode" />
+              <item name="v2" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -314,7 +417,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537500202930" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537503896642" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -346,26 +449,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.test">
+  <component name="RunManager" selected="Application.Test">
     <configuration name="B" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.geek.designpattern.prototype.abstrtactprototype.B" />
       <module name="designpattern23" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.geek.designpattern.prototype.abstrtactprototype.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.geek.designpattern.prototype.Test" />
-      <module name="designpattern23" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.geek.designpattern.prototype.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -386,12 +476,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.geek.designpattern.singleton.Test" />
+    <configuration name="Test (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.geek.designpattern.decorator.v2.Test" />
       <module name="designpattern23" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.geek.designpattern.singleton.*" />
+          <option name="PATTERN" value="com.geek.designpattern.decorator.v2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.geek.designpattern.decorator.v1.Test" />
+      <module name="designpattern23" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.geek.designpattern.decorator.v1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -413,19 +516,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Test" />
-      <item itemvalue="Application.Test (1)" />
       <item itemvalue="Application.B" />
       <item itemvalue="Application.Test (2)" />
       <item itemvalue="Application.test" />
+      <item itemvalue="Application.Test (3)" />
+      <item itemvalue="Application.Test" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Test (3)" />
         <item itemvalue="Application.test" />
         <item itemvalue="Application.Test (2)" />
         <item itemvalue="Application.B" />
-        <item itemvalue="Application.Test (1)" />
-        <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -444,12 +547,12 @@
       <workItem from="1537364497776" duration="6535000" />
       <workItem from="1537430339612" duration="4465000" />
       <workItem from="1537452262275" duration="1270000" />
-      <workItem from="1537495415494" duration="2127000" />
+      <workItem from="1537495415494" duration="5339000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23223000" />
+    <option name="totallyTimeSpent" value="26435000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="29" width="1922" height="1025" extended-state="6" />
@@ -465,7 +568,7 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.16648045" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.5184358" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.40111732" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -799,10 +902,189 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/geek/designpattern/decorator/v1/v2/a.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/geek/designpattern/decorator/v2/ABattercake.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="33" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/geek/designpattern/decorator/v2/SausageDecorator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
+          <folding>
+            <element signature="e#173#174#0" expanded="true" />
+            <element signature="e#207#208#0" expanded="true" />
+            <element signature="e#255#256#0" expanded="true" />
+            <element signature="e#293#294#0" expanded="true" />
+            <element signature="e#335#336#0" expanded="true" />
+            <element signature="e#370#371#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.geek.designpattern.decorator.v2">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.geek.designpattern.decorator.v2</OriginalElement>
+          <nodes>
+            <node x="330.0" y="0.0">com.geek.designpattern.decorator.v2.ABattercake</node>
+            <node x="292.0" y="300.0">com.geek.designpattern.decorator.v2.SausageDecorator</node>
+            <node x="0.0" y="300.0">com.geek.designpattern.decorator.v2.EggDecorator</node>
+            <node x="134.0" y="126.0">com.geek.designpattern.decorator.v2.AbstractDecorator</node>
+            <node x="466.0" y="150.0">com.geek.designpattern.decorator.v2.Battercake</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="com.geek.designpattern.decorator.v2.EggDecorator" target="com.geek.designpattern.decorator.v2.AbstractDecorator">
+              <point x="0.0" y="-50.0" />
+              <point x="136.0" y="275.0" />
+              <point x="212.0" y="275.0" />
+              <point x="-78.0" y="62.0" />
+            </edge>
+            <edge source="com.geek.designpattern.decorator.v2.SausageDecorator" target="com.geek.designpattern.decorator.v2.AbstractDecorator">
+              <point x="0.0" y="-50.0" />
+              <point x="444.0" y="275.0" />
+              <point x="368.0" y="275.0" />
+              <point x="78.0" y="62.0" />
+            </edge>
+            <edge source="com.geek.designpattern.decorator.v2.AbstractDecorator" target="com.geek.designpattern.decorator.v2.ABattercake">
+              <point x="0.0" y="-62.0" />
+              <point x="290.0" y="101.0" />
+              <point x="378.0" y="101.0" />
+              <point x="-48.0" y="38.0" />
+            </edge>
+            <edge source="com.geek.designpattern.decorator.v2.Battercake" target="com.geek.designpattern.decorator.v2.ABattercake">
+              <point x="0.0" y="-38.0" />
+              <point x="562.0" y="101.0" />
+              <point x="474.0" y="101.0" />
+              <point x="48.0" y="38.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-257.5" y="-12.0" />
+          <SelectedNodes>
+            <node>com.geek.designpattern.decorator.v2.Battercake</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+            <Category>Properties</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/geek/designpattern/decorator/v2/AbstractDecorator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+          <folding>
+            <element signature="e#219#220#0" expanded="true" />
+            <element signature="e#264#265#0" expanded="true" />
+            <element signature="e#162#163#0" expanded="true" />
+            <element signature="e#189#190#0" expanded="true" />
+            <element signature="e#395#396#0" expanded="true" />
+            <element signature="e#444#445#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/geek/designpattern/decorator/v1/Battercake.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="e#102#103#0" expanded="true" />
+            <element signature="e#129#130#0" expanded="true" />
+            <element signature="e#155#156#0" expanded="true" />
+            <element signature="e#178#179#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/geek/designpattern/decorator/v1/BattercakeWithEgg.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="29" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+          <folding>
+            <element signature="e#142#143#0" expanded="true" />
+            <element signature="e#180#181#0" expanded="true" />
+            <element signature="e#222#223#0" expanded="true" />
+            <element signature="e#257#258#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/geek/designpattern/decorator/v1/BattercakeWithEggSausage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
+          <folding>
+            <element signature="e#158#159#0" expanded="true" />
+            <element signature="e#196#197#0" expanded="true" />
+            <element signature="e#246#247#0" expanded="true" />
+            <element signature="e#282#283#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/geek/designpattern/decorator/v1/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/geek/designpattern/decorator/v2/Battercake.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+          <folding>
+            <element signature="e#137#138#0" expanded="true" />
+            <element signature="e#164#165#0" expanded="true" />
+            <element signature="e#206#207#0" expanded="true" />
+            <element signature="e#230#231#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/geek/designpattern/decorator/v2/EggDecorator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
+          <folding>
+            <element signature="e#166#167#0" expanded="true" />
+            <element signature="e#200#201#0" expanded="true" />
+            <element signature="e#248#249#0" expanded="true" />
+            <element signature="e#286#287#0" expanded="true" />
+            <element signature="e#328#329#0" expanded="true" />
+            <element signature="e#363#364#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/geek/designpattern/decorator/v2/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="522">
-          <caret line="24" column="53" selection-start-line="24" selection-start-column="53" selection-end-line="24" selection-end-column="53" />
+        <state relative-caret-position="361">
+          <caret line="28" column="54" selection-start-line="28" selection-start-column="54" selection-end-line="28" selection-end-column="54" />
         </state>
       </provider>
     </entry>
