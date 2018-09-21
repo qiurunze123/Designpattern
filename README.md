@@ -18,9 +18,11 @@
 
 2.原型模式讲解与坑
 
-![单例](http://i4.bvimg.com/601558/9c46e605b0f72d82.png)
+![原型](http://i4.bvimg.com/601558/9c46e605b0f72d82.png)
 
+3.外观模式
 
+![外观](http://i4.bvimg.com/601558/b2c4fb3b1ab63a1c.png)
 
 
 
