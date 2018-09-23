@@ -2,9 +2,81 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e8696a4b-ad89-4596-a8c1-05172f8e6871" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/designpattern23.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geek/designpattern/DesignPatternMainApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geek/designpattern/decorator/v1/Battercake.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geek/designpattern/decorator/v1/BattercakeWithEgg.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geek/designpattern/decorator/v1/BattercakeWithEggSausage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geek/designpattern/decorator/v1/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geek/designpattern/decorator/v2/ABattercake.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geek/designpattern/decorator/v2/AbstractDecorator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geek/designpattern/decorator/v2/Battercake.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geek/designpattern/decorator/v2/EggDecorator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geek/designpattern/decorator/v2/SausageDecorator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geek/designpattern/decorator/v2/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geek/designpattern/prototype/Mail.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geek/designpattern/prototype/MailUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geek/designpattern/prototype/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geek/designpattern/prototype/abstrtactprototype/A.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geek/designpattern/prototype/abstrtactprototype/B.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geek/designpattern/prototype/clone/Pig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geek/designpattern/prototype/clone/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geek/designpattern/singleton/ContainerSingleton.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geek/designpattern/singleton/EnumInstance.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geek/designpattern/singleton/HungrySingleton.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geek/designpattern/singleton/LazyDoubleCheckSingleton.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geek/designpattern/singleton/LazySingleton.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geek/designpattern/singleton/StaticInnerClassSingleton.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geek/designpattern/singleton/T.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geek/designpattern/singleton/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geek/designpattern/singleton/ThreadLocalInstance.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geek/designpattern/structural/facade/subsystem/CPU.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geek/designpattern/structural/facade/subsystem/Computer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geek/designpattern/structural/facade/subsystem/Disk.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geek/designpattern/structural/facade/subsystem/test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geek/designpattern/DesignPatternMainApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geek/designpattern/decorator/v1/Battercake.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geek/designpattern/decorator/v1/BattercakeWithEgg.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geek/designpattern/decorator/v1/BattercakeWithEggSausage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geek/designpattern/decorator/v1/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geek/designpattern/decorator/v2/ABattercake.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geek/designpattern/decorator/v2/AbstractDecorator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geek/designpattern/decorator/v2/Battercake.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geek/designpattern/decorator/v2/EggDecorator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geek/designpattern/decorator/v2/SausageDecorator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geek/designpattern/decorator/v2/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geek/designpattern/prototype/Mail.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geek/designpattern/prototype/MailUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geek/designpattern/prototype/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geek/designpattern/prototype/abstrtactprototype/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geek/designpattern/prototype/abstrtactprototype/B.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geek/designpattern/prototype/clone/Pig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geek/designpattern/prototype/clone/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geek/designpattern/singleton/ContainerSingleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geek/designpattern/singleton/EnumInstance.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geek/designpattern/singleton/HungrySingleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geek/designpattern/singleton/LazyDoubleCheckSingleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geek/designpattern/singleton/LazySingleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geek/designpattern/singleton/StaticInnerClassSingleton$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geek/designpattern/singleton/StaticInnerClassSingleton$InnerClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geek/designpattern/singleton/StaticInnerClassSingleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geek/designpattern/singleton/T.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geek/designpattern/singleton/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geek/designpattern/singleton/ThreadLocalInstance$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geek/designpattern/singleton/ThreadLocalInstance.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geek/designpattern/structural/facade/subsystem/CPU.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geek/designpattern/structural/facade/subsystem/Computer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geek/designpattern/structural/facade/subsystem/Disk.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geek/designpattern/structural/facade/subsystem/test.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -36,27 +108,27 @@
           <entry key="class" value="4" />
           <entry key="facade" value="1" />
           <entry key="gitignore" value="1" />
-          <entry key="java" value="38" />
+          <entry key="java" value="39" />
           <entry key="md" value="4" />
           <entry key="subsystem" value="3" />
           <entry key="v2" value="1" />
-          <entry key="xml" value="1" />
+          <entry key="xml" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="4" />
-          <entry key="JAVA" value="38" />
+          <entry key="JAVA" value="39" />
           <entry key="Markdown" value="4" />
           <entry key="PLAIN_TEXT" value="1" />
           <entry key="UML" value="5" />
-          <entry key="XML" value="1" />
+          <entry key="XML" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="15" />
-          <entry key="gitignore" value="6" />
+          <entry key="gitignore" value="12" />
           <entry key="java" value="4246" />
           <entry key="md" value="228" />
         </counts>
@@ -65,7 +137,7 @@
         <counts>
           <entry key="JAVA" value="4246" />
           <entry key="Markdown" value="228" />
-          <entry key="PLAIN_TEXT" value="21" />
+          <entry key="PLAIN_TEXT" value="27" />
         </counts>
       </usages-collector>
     </session>
@@ -75,35 +147,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/gitignore">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="66">
-              <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
+            <state>
+              <caret lean-forward="true" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/geek/designpattern/decorator/v2/Battercake.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/geek/designpattern/DesignPatternMainApplication.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
-              <folding>
-                <element signature="e#137#138#0" expanded="true" />
-                <element signature="e#164#165#0" expanded="true" />
-                <element signature="e#206#207#0" expanded="true" />
-                <element signature="e#230#231#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="264">
+              <caret line="13" column="58" selection-start-line="13" selection-start-column="58" selection-end-line="13" selection-end-column="58" />
             </state>
           </provider>
         </entry>
@@ -253,6 +310,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/geek/designpattern/decorator/v1/Test.java" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/gitignore" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -289,6 +347,37 @@
               <item name="designpattern23" type="b2602c69:ProjectViewProjectNode" />
               <item name="designpattern23" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="designpattern23" type="b2602c69:ProjectViewProjectNode" />
+              <item name="designpattern23" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="designpattern23" type="b2602c69:ProjectViewProjectNode" />
+              <item name="designpattern23" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="designpattern23" type="b2602c69:ProjectViewProjectNode" />
+              <item name="designpattern23" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="designpattern23" type="b2602c69:ProjectViewProjectNode" />
+              <item name="designpattern23" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="designpattern23" type="b2602c69:ProjectViewProjectNode" />
+              <item name="designpattern23" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="designpattern" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -299,7 +388,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537664729502" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537665266065" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -433,12 +522,12 @@
       <workItem from="1537508189376" duration="2044000" />
       <workItem from="1537538790906" duration="643000" />
       <workItem from="1537580829379" duration="2541000" />
-      <workItem from="1537662725410" duration="666000" />
+      <workItem from="1537662725410" duration="1216000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33543000" />
+    <option name="totallyTimeSpent" value="34093000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="29" width="1922" height="1025" extended-state="6" />
@@ -575,13 +664,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
           <caret line="7" column="64" selection-start-line="7" selection-start-column="64" selection-end-line="7" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/geek/designpattern/DesignPatternMainApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="13" column="58" selection-start-line="13" selection-start-column="58" selection-end-line="13" selection-end-column="58" />
         </state>
       </provider>
     </entry>
@@ -929,10 +1011,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gitignore">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/geek/designpattern/DesignPatternMainApplication.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
+        <state relative-caret-position="264">
+          <caret line="13" column="58" selection-start-line="13" selection-start-column="58" selection-end-line="13" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
         </state>
       </provider>
     </entry>
