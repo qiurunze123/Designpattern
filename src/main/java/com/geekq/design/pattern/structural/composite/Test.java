@@ -18,7 +18,7 @@ public class Test {
         javaCourseCatalog.add(mmallCourse2);
         javaCourseCatalog.add(designPattern);
 
-        CatalogComponent imoocMainCourseCatalog = new CourseCatalog("慕课网课程主目录",1);
+        CatalogComponent imoocMainCourseCatalog = new CourseCatalog("课程主目录",1);
         imoocMainCourseCatalog.add(linuxCourse);
         imoocMainCourseCatalog.add(windowsCourse);
         imoocMainCourseCatalog.add(javaCourseCatalog);
