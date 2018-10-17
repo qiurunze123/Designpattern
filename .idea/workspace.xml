@@ -1,91 +1,215 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e8696a4b-ad89-4596-a8c1-05172f8e6871" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/designpattern23.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/geek/designpattern/DesignPatternMainApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/geek/designpattern/decorator/v1/Battercake.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/geek/designpattern/decorator/v1/BattercakeWithEgg.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/geek/designpattern/decorator/v1/BattercakeWithEggSausage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/geek/designpattern/decorator/v1/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/geek/designpattern/decorator/v2/ABattercake.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/geek/designpattern/decorator/v2/AbstractDecorator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/geek/designpattern/decorator/v2/Battercake.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/geek/designpattern/decorator/v2/EggDecorator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/geek/designpattern/decorator/v2/SausageDecorator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/geek/designpattern/decorator/v2/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/geek/designpattern/prototype/Mail.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/geek/designpattern/prototype/MailUtil.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/geek/designpattern/prototype/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/geek/designpattern/prototype/abstrtactprototype/A.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/geek/designpattern/prototype/abstrtactprototype/B.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/geek/designpattern/prototype/clone/Pig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/geek/designpattern/prototype/clone/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/geek/designpattern/singleton/ContainerSingleton.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/geek/designpattern/singleton/EnumInstance.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/geek/designpattern/singleton/HungrySingleton.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/geek/designpattern/singleton/LazyDoubleCheckSingleton.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/geek/designpattern/singleton/LazySingleton.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/geek/designpattern/singleton/StaticInnerClassSingleton.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/geek/designpattern/singleton/T.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/geek/designpattern/singleton/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/geek/designpattern/singleton/ThreadLocalInstance.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/geek/designpattern/structural/facade/subsystem/CPU.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/geek/designpattern/structural/facade/subsystem/Computer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/geek/designpattern/structural/facade/subsystem/Disk.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/geek/designpattern/structural/facade/subsystem/test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/geek/designpattern/DesignPatternMainApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/geek/designpattern/decorator/v1/Battercake.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/geek/designpattern/decorator/v1/BattercakeWithEgg.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/geek/designpattern/decorator/v1/BattercakeWithEggSausage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/geek/designpattern/decorator/v1/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/geek/designpattern/decorator/v2/ABattercake.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/geek/designpattern/decorator/v2/AbstractDecorator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/geek/designpattern/decorator/v2/Battercake.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/geek/designpattern/decorator/v2/EggDecorator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/geek/designpattern/decorator/v2/SausageDecorator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/geek/designpattern/decorator/v2/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/geek/designpattern/prototype/Mail.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/geek/designpattern/prototype/MailUtil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/geek/designpattern/prototype/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/geek/designpattern/prototype/abstrtactprototype/A.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/geek/designpattern/prototype/abstrtactprototype/B.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/geek/designpattern/prototype/clone/Pig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/geek/designpattern/prototype/clone/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/geek/designpattern/singleton/ContainerSingleton.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/geek/designpattern/singleton/EnumInstance.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/geek/designpattern/singleton/HungrySingleton.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/geek/designpattern/singleton/LazyDoubleCheckSingleton.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/geek/designpattern/singleton/LazySingleton.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/geek/designpattern/singleton/StaticInnerClassSingleton$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/geek/designpattern/singleton/StaticInnerClassSingleton$InnerClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/geek/designpattern/singleton/StaticInnerClassSingleton.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/geek/designpattern/singleton/T.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/geek/designpattern/singleton/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/geek/designpattern/singleton/ThreadLocalInstance$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/geek/designpattern/singleton/ThreadLocalInstance.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/geek/designpattern/structural/facade/subsystem/CPU.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/geek/designpattern/structural/facade/subsystem/Computer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/geek/designpattern/structural/facade/subsystem/Disk.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/geek/designpattern/structural/facade/subsystem/test.class" beforeDir="false" />
+    <list default="true" id="e8696a4b-ad89-4596-a8c1-05172f8e6871" name="Default Changelist" comment="提交设计模式23！">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/Designpattern.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/geekq/design/pattern/behavioral/iterator/Course.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/geekq/design/pattern/behavioral/iterator/CourseAggregate.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/geekq/design/pattern/behavioral/iterator/CourseAggregateImpl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/geekq/design/pattern/behavioral/iterator/CourseIterator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/geekq/design/pattern/behavioral/iterator/CourseIteratorImpl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/geekq/design/pattern/behavioral/iterator/Test.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/geekq/design/pattern/behavioral/strategy/FanXianPromotionStrategy.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/geekq/design/pattern/behavioral/strategy/LiJianPromotionStrategy.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/geekq/design/pattern/behavioral/strategy/ManJianPromotionStrategy.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/geekq/design/pattern/behavioral/strategy/PromotionActivity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/geekq/design/pattern/behavioral/strategy/PromotionStrategy.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/geekq/design/pattern/behavioral/strategy/Test.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/geekq/design/pattern/behavioral/templatemethod/ACourse.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/geekq/design/pattern/behavioral/templatemethod/DesignPatternCourse.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/geekq/design/pattern/behavioral/templatemethod/FECourse.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/geekq/design/pattern/behavioral/templatemethod/Test.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/geekq/design/pattern/creational/abstractfactory/Article.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/geekq/design/pattern/creational/abstractfactory/CourseFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/geekq/design/pattern/creational/abstractfactory/JavaArticle.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/geekq/design/pattern/creational/abstractfactory/JavaCourseFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/geekq/design/pattern/creational/abstractfactory/JavaVideo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/geekq/design/pattern/creational/abstractfactory/PythonArticle.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/geekq/design/pattern/creational/abstractfactory/PythonCourseFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/geekq/design/pattern/creational/abstractfactory/PythonVideo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/geekq/design/pattern/creational/abstractfactory/Test.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/geekq/design/pattern/creational/abstractfactory/Video.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/geekq/design/pattern/creational/builder/Coach.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/geekq/design/pattern/creational/builder/Course.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/geekq/design/pattern/creational/builder/CourseActualBuilder.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/geekq/design/pattern/creational/builder/CourseBuilder.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/geekq/design/pattern/creational/builder/Test.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/geekq/design/pattern/creational/builder/v2/Course.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/geekq/design/pattern/creational/builder/v2/Test.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/geekq/design/pattern/creational/factorymethod/FEVideo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/geekq/design/pattern/creational/factorymethod/FEVideoFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/geekq/design/pattern/creational/factorymethod/JavaVideo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/geekq/design/pattern/creational/factorymethod/JavaVideoFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/geekq/design/pattern/creational/factorymethod/PythonVideo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/geekq/design/pattern/creational/factorymethod/PythonVideoFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/geekq/design/pattern/creational/factorymethod/Test.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/geekq/design/pattern/creational/factorymethod/Video.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/geekq/design/pattern/creational/factorymethod/VideoFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/geekq/design/pattern/creational/prototype/MailUtil.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/geekq/design/pattern/creational/prototype/Test.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/geekq/design/pattern/creational/prototype/clone/Test.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/geekq/design/pattern/creational/simplefactory/JavaVideo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/geekq/design/pattern/creational/simplefactory/PythonVideo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/geekq/design/pattern/creational/simplefactory/Test.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/geekq/design/pattern/creational/simplefactory/Video.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/geekq/design/pattern/creational/simplefactory/VideoFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/geekq/design/pattern/creational/singleton/EnumInstance.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/geekq/design/pattern/creational/singleton/HungrySingleton.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/geekq/design/pattern/creational/singleton/LazyDoubleCheckSingleton.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/geekq/design/pattern/creational/singleton/LazySingleton.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/geekq/design/pattern/creational/singleton/T.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/geekq/design/pattern/creational/singleton/Test.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/geekq/design/pattern/structural/adapter/AC220.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/geekq/design/pattern/structural/adapter/DC5.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/geekq/design/pattern/structural/adapter/PowerAdapter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/geekq/design/pattern/structural/adapter/Test.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/geekq/design/pattern/structural/adapter/classadapter/Adaptee.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/geekq/design/pattern/structural/adapter/classadapter/Adapter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/geekq/design/pattern/structural/adapter/classadapter/ConcreteTarget.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/geekq/design/pattern/structural/adapter/classadapter/Target.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/geekq/design/pattern/structural/adapter/classadapter/Test.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/geekq/design/pattern/structural/adapter/objectadapter/Adaptee.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/geekq/design/pattern/structural/adapter/objectadapter/Adapter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/geekq/design/pattern/structural/adapter/objectadapter/ConcreteTarget.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/geekq/design/pattern/structural/adapter/objectadapter/Target.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/geekq/design/pattern/structural/adapter/objectadapter/Test.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/geekq/design/pattern/structural/bridge/ABCBank.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/geekq/design/pattern/structural/bridge/Account.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/geekq/design/pattern/structural/bridge/Bank.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/geekq/design/pattern/structural/bridge/DepositAccount.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/geekq/design/pattern/structural/bridge/ICBCBank.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/geekq/design/pattern/structural/bridge/SavingAccount.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/geekq/design/pattern/structural/bridge/Test.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/geekq/design/pattern/structural/composite/CatalogComponent.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/geekq/design/pattern/structural/composite/Course.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/geekq/design/pattern/structural/composite/CourseCatalog.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/geekq/design/pattern/structural/composite/Test.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/geekq/design/pattern/structural/decorator/v1/BattercakeWithEgg.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/geekq/design/pattern/structural/decorator/v1/BattercakeWithEggSausage.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/geekq/design/pattern/structural/decorator/v1/Test.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/geekq/design/pattern/structural/decorator/v2/ABattercake.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/geekq/design/pattern/structural/decorator/v2/AbstractDecorator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/geekq/design/pattern/structural/decorator/v2/EggDecorator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/geekq/design/pattern/structural/decorator/v2/Test.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/geekq/design/pattern/structural/facade/GiftExchangeService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/geekq/design/pattern/structural/facade/PointsGift.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/geekq/design/pattern/structural/facade/PointsPaymentService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/geekq/design/pattern/structural/facade/QualifyService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/geekq/design/pattern/structural/facade/ShippingService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/geekq/design/pattern/structural/facade/Test.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/geekq/design/pattern/structural/flyweight/Employee.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/geekq/design/pattern/structural/flyweight/EmployeeFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/geekq/design/pattern/structural/flyweight/Manager.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/geekq/design/pattern/structural/flyweight/Test.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/geekq/design/pattern/structural/proxy/IOrderDao.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/geekq/design/pattern/structural/proxy/IOrderService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/geekq/design/pattern/structural/proxy/Order.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/geekq/design/pattern/structural/proxy/OrderDaoImpl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/geekq/design/pattern/structural/proxy/OrderServiceImpl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/geekq/design/pattern/structural/proxy/db/DataSourceContextHolder.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/geekq/design/pattern/structural/proxy/db/DynamicDataSource.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/geekq/design/pattern/structural/proxy/dynamicproxy/OrderServiceDynamicProxy.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/geekq/design/pattern/structural/proxy/dynamicproxy/Test.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/geekq/design/pattern/structural/proxy/staticproxy/OrderServiceStaticProxy.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/geekq/design/pattern/structural/proxy/staticproxy/Test.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/geekq/design/principle/compositionaggregation/DBConnection.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/geekq/design/principle/compositionaggregation/MySQLConnection.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/geekq/design/principle/compositionaggregation/PostgreSQLConnection.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/geekq/design/principle/compositionaggregation/ProductDao.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/geekq/design/principle/compositionaggregation/Test.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/geekq/design/principle/demeter/Boss.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/geekq/design/principle/demeter/Course.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/geekq/design/principle/demeter/TeamLeader.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/geekq/design/principle/demeter/Test.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/geekq/design/principle/dependenceinversion/FECourse.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/geekq/design/principle/dependenceinversion/Geekq.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/geekq/design/principle/dependenceinversion/ICourse.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/geekq/design/principle/dependenceinversion/JavaCourse.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/geekq/design/principle/dependenceinversion/PythonCourse.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/geekq/design/principle/dependenceinversion/Test.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/geekq/design/principle/interfacesegregation/Bird.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/geekq/design/principle/interfacesegregation/Dog.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/geekq/design/principle/interfacesegregation/IAnimalAction.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/geekq/design/principle/interfacesegregation/IEatAnimalAction.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/geekq/design/principle/interfacesegregation/IFlyAnimalAction.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/geekq/design/principle/interfacesegregation/ISwimAnimalAction.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/geekq/design/principle/liskovsubstitution/Quadrangle.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/geekq/design/principle/liskovsubstitution/Rectangle.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/geekq/design/principle/liskovsubstitution/Square.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/geekq/design/principle/liskovsubstitution/Test.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/geekq/design/principle/liskovsubstitution/methodinput/Base.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/geekq/design/principle/liskovsubstitution/methodinput/Child.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/geekq/design/principle/liskovsubstitution/methodinput/Test.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/geekq/design/principle/liskovsubstitution/methodoutput/Base.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/geekq/design/principle/liskovsubstitution/methodoutput/Child.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/geekq/design/principle/liskovsubstitution/methodoutput/Test.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/geekq/design/principle/openclose/ICourse.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/geekq/design/principle/openclose/JavaCourse.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/geekq/design/principle/openclose/JavaDiscountCourse.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/geekq/design/principle/openclose/Test.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/geekq/design/principle/singleresponsibility/Bird.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/geekq/design/principle/singleresponsibility/CourseImpl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/geekq/design/principle/singleresponsibility/FlyBird.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/geekq/design/principle/singleresponsibility/ICourse.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/geekq/design/principle/singleresponsibility/ICourseContent.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/geekq/design/principle/singleresponsibility/ICourseManager.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/geekq/design/principle/singleresponsibility/Method.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/geekq/design/principle/singleresponsibility/Test.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/geekq/design/principle/singleresponsibility/WalkBird.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/geek/designpattern/DesignPatternMainApplication.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/geek/designpattern/decorator/v1/BattercakeWithEgg.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/geek/designpattern/decorator/v1/BattercakeWithEggSausage.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/geek/designpattern/decorator/v1/Test.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/geek/designpattern/decorator/v2/ABattercake.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/geek/designpattern/decorator/v2/AbstractDecorator.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/geek/designpattern/decorator/v2/EggDecorator.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/geek/designpattern/decorator/v2/Test.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/geek/designpattern/prototype/MailUtil.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/geek/designpattern/prototype/Test.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/geek/designpattern/prototype/clone/Test.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/geek/designpattern/singleton/EnumInstance.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/geek/designpattern/singleton/HungrySingleton.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/geek/designpattern/singleton/LazyDoubleCheckSingleton.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/geek/designpattern/singleton/LazySingleton.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/geek/designpattern/singleton/T.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/geek/designpattern/singleton/Test.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/geek/designpattern/structural/facade/subsystem/CPU.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/geek/designpattern/structural/facade/subsystem/Computer.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/geek/designpattern/structural/facade/subsystem/Disk.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/geek/designpattern/structural/facade/subsystem/test.java" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/geek/designpattern/decorator/v1/Battercake.java" afterPath="$PROJECT_DIR$/src/main/java/com/geekq/design/pattern/structural/decorator/v1/Battercake.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/geek/designpattern/decorator/v2/Battercake.java" afterPath="$PROJECT_DIR$/src/main/java/com/geekq/design/pattern/structural/decorator/v2/Battercake.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/geek/designpattern/decorator/v2/SausageDecorator.java" afterPath="$PROJECT_DIR$/src/main/java/com/geekq/design/pattern/structural/decorator/v2/SausageDecorator.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/geek/designpattern/prototype/Mail.java" afterPath="$PROJECT_DIR$/src/main/java/com/geekq/design/pattern/creational/prototype/Mail.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/geek/designpattern/prototype/abstrtactprototype/A.java" afterPath="$PROJECT_DIR$/src/main/java/com/geekq/design/pattern/creational/prototype/abstractprototype/A.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/geek/designpattern/prototype/abstrtactprototype/B.java" afterPath="$PROJECT_DIR$/src/main/java/com/geekq/design/pattern/creational/prototype/abstractprototype/B.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/geek/designpattern/prototype/clone/Pig.java" afterPath="$PROJECT_DIR$/src/main/java/com/geekq/design/pattern/creational/prototype/clone/Pig.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/geek/designpattern/singleton/ContainerSingleton.java" afterPath="$PROJECT_DIR$/src/main/java/com/geekq/design/pattern/creational/singleton/ContainerSingleton.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/geek/designpattern/singleton/StaticInnerClassSingleton.java" afterPath="$PROJECT_DIR$/src/main/java/com/geekq/design/pattern/creational/singleton/StaticInnerClassSingleton.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/geek/designpattern/singleton/ThreadLocalInstance.java" afterPath="$PROJECT_DIR$/src/main/java/com/geekq/design/pattern/creational/singleton/ThreadLocalInstance.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path=".idea/dataSources.local.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FUSProjectUsageTrigger">
     <session id="431469491">
       <usages-collector id="statistics.lifecycle.project">
@@ -146,106 +270,13 @@
     <favorites_list name="designpattern23" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+    <leaf>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret lean-forward="true" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/geek/designpattern/DesignPatternMainApplication.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="13" column="58" selection-start-line="13" selection-start-column="58" selection-end-line="13" selection-end-column="58" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/geek/designpattern/decorator/v2/AbstractDecorator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
-              <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/geek/designpattern/decorator/v1/Battercake.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-              <folding>
-                <element signature="e#102#103#0" expanded="true" />
-                <element signature="e#129#130#0" expanded="true" />
-                <element signature="e#155#156#0" expanded="true" />
-                <element signature="e#179#180#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/geek/designpattern/decorator/v1/BattercakeWithEggSausage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
-              <folding>
-                <element signature="e#158#159#0" expanded="true" />
-                <element signature="e#204#205#0" expanded="true" />
-                <element signature="e#246#247#0" expanded="true" />
-                <element signature="e#283#284#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/geek/designpattern/decorator/v1/Test.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/geek/designpattern/decorator/v1/BattercakeWithEgg.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="10" column="29" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
-              <folding>
-                <element signature="e#142#143#0" expanded="true" />
-                <element signature="e#188#189#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/geek/designpattern/decorator/v2/EggDecorator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
-              <folding>
-                <element signature="e#166#167#0" expanded="true" />
-                <element signature="e#200#201#0" expanded="true" />
-                <element signature="e#248#249#0" expanded="true" />
-                <element signature="e#295#296#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/geek/designpattern/decorator/v2/Test.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -267,122 +298,136 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/com/geek/designpattern/signleton/ThreadandjucMainApplication.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ThreadandjucMainApplication.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/geek/designpattern/ThreadandjucMainApplication.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/geek/designpattern/DesignPatternMainApplication.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/geek/designpattern/singleton/LazySingleton.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/geek/designpattern/singleton/LazyDoubleCheckSingleton.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/geek/designpattern/singleton/T.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/geek/designpattern/singleton/HungrySingleton.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/geek/designpattern/singleton/StaticInnerClassSingleton.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/geek/designpattern/singleton/Test.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/geek/designpattern/singleton/EnumInstance.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/geek/designpattern/singleton/ContainerSingleton.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/geek/designpattern/singleton/ThreadLocalInstance.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/geek/designpattern/singleton/README.md" />
-        <option value="$PROJECT_DIR$/src/main/java/com/geek/designpattern/prototype/MailUtil.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/geek/designpattern/prototype/Mail.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/geek/designpattern/prototype/Test.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/geek/designpattern/prototype/abstrtactprototype/B.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/geek/designpattern/prototype/abstrtactprototype/A.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/geek/designpattern/prototype/clone/Pif.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/geek/designpattern/prototype/clone/Pig.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/geek/designpattern/prototype/clone/Test.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/geek/designpattern/structural/facade/subsystem/Disk.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/geek/designpattern/structural/facade/subsystem/CPU.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/geek/designpattern/structural/facade/subsystem/structural/facade/Computer.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/geek/designpattern/structural/facade/subsystem/structural/facade/test.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/geek/designpattern/structural/facade/subsystem/test.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/geek/designpattern/decorator/v2/Battercake.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/geek/designpattern/decorator/v2/ABattercake.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/geek/designpattern/decorator/v2/SausageDecorator.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/geek/designpattern/decorator/v2/EggDecorator.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/geek/designpattern/decorator/v2/Test.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/geek/designpattern/decorator/v2/AbstractDecorator.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/geek/designpattern/decorator/v1/Battercake.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/geek/designpattern/decorator/v1/BattercakeWithEgg.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/geek/designpattern/decorator/v1/BattercakeWithEggSausage.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/geek/designpattern/decorator/v1/Test.java" />
-        <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/gitignore" />
-        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/src/main/java/com/geekq/design/principle/openclose/ICourse.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/geekq/design/principle/liskovsubstitution/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/geekq/design/principle/liskovsubstitution/Square.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/geekq/design/principle/liskovsubstitution/Rectangle.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/geekq/design/principle/liskovsubstitution/Quadrangle.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/geekq/design/principle/liskovsubstitution/methodoutput/Base.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/geekq/design/principle/liskovsubstitution/methodoutput/Child.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/geekq/design/principle/liskovsubstitution/methodoutput/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/geekq/design/principle/liskovsubstitution/methodinput/Base.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/geekq/design/principle/liskovsubstitution/methodinput/Child.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/geekq/design/principle/liskovsubstitution/methodinput/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/geekq/design/principle/singleresponsibility/Bird.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/geekq/design/principle/singleresponsibility/CourseImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/geekq/design/principle/singleresponsibility/FlyBird.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/geekq/design/principle/singleresponsibility/ICourse.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/geekq/design/principle/singleresponsibility/ICourseContent.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/geekq/design/principle/singleresponsibility/ICourseManager.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/geekq/design/principle/singleresponsibility/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/geekq/design/principle/singleresponsibility/WalkBird.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/geekq/design/principle/demeter/Boss.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/geekq/design/principle/compositionaggregation/DBConnection.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/geekq/design/principle/compositionaggregation/MySQLConnection.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/geekq/design/principle/compositionaggregation/PostgreSQLConnection.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/geekq/design/principle/compositionaggregation/ProductDao.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/geekq/design/principle/compositionaggregation/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/geekq/design/principle/demeter/Course.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/geekq/design/principle/demeter/TeamLeader.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/geekq/design/principle/demeter/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/geekq/design/principle/dependenceinversion/ICourse.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/geekq/design/principle/interfacesegregation/Bird.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/geekq/design/principle/interfacesegregation/Dog.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/geekq/design/principle/interfacesegregation/IAnimalAction.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/geekq/design/principle/interfacesegregation/IEatAnimalAction.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/geekq/design/principle/interfacesegregation/IFlyAnimalAction.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/geekq/design/principle/interfacesegregation/ISwimAnimalAction.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/geekq/design/pattern/creational/prototype/clone/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/geekq/design/pattern/creational/prototype/clone/Pig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/geekq/design/pattern/creational/prototype/Mail.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/geekq/design/pattern/creational/prototype/MailUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/geekq/design/pattern/creational/prototype/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/geekq/design/pattern/behavioral/iterator/Course.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/geekq/design/principle/dependenceinversion/Geely.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/geekq/design/principle/dependenceinversion/Geekq.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/geekq/design/principle/dependenceinversion/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/geekq/design/principle/dependenceinversion/FECourse.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/geekq/design/principle/dependenceinversion/PythonCourse.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/geekq/design/principle/dependenceinversion/JavaCourse.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/geekq/design/principle/singleresponsibility/Method.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/geekq/design/pattern/creational/singleton/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/geekq/design/pattern/creational/singleton/EnumInstance.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/geekq/design/pattern/structural/adapter/Test.java" />
       </list>
     </option>
   </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
+        <option name="mavenHome" value="Bundled (Maven 3)" />
         <option name="userSettingsFile" value="/opt/apache-maven-3.5.3/conf/settings.xml" />
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="247" />
-    <option name="y" value="29" />
-    <option name="width" value="1376" />
-    <option name="height" value="999" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectView">
-    <navigator proportions="" version="1">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="Scope" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
-          <expand>
-            <path>
-              <item name="designpattern23" type="b2602c69:ProjectViewProjectNode" />
-              <item name="designpattern23" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="designpattern23" type="b2602c69:ProjectViewProjectNode" />
-              <item name="designpattern23" type="462c0819:PsiDirectoryNode" />
-              <item name=".idea" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="designpattern23" type="b2602c69:ProjectViewProjectNode" />
-              <item name="designpattern23" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="designpattern23" type="b2602c69:ProjectViewProjectNode" />
-              <item name="designpattern23" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="designpattern23" type="b2602c69:ProjectViewProjectNode" />
-              <item name="designpattern23" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="designpattern23" type="b2602c69:ProjectViewProjectNode" />
-              <item name="designpattern23" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="designpattern" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Designpattern" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Designpattern" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Designpattern" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -402,10 +447,11 @@
       <recent name="com.geek.designpattern.signleton" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\project\Designpattern" />
+      <recent name="D:\project\Designpattern\src\main\java" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/src/main/java/com/geek/designpattern/singleton" />
       <recent name="$PROJECT_DIR$/src/main/java/com/geek" />
-      <recent name="$PROJECT_DIR$/src/main/java/com/geek/designpattern" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -420,89 +466,513 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Test">
-    <configuration name="B" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.geek.designpattern.prototype.abstrtactprototype.B" />
-      <module name="designpattern23" />
-      <extension name="coverage">
+  <component name="RunManager">
+    <configuration default="false" name="B" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" runner="idea">
         <pattern>
           <option name="PATTERN" value="com.geek.designpattern.prototype.abstrtactprototype.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.geek.designpattern.prototype.clone.Test" />
+      <option name="MAIN_CLASS_NAME" value="com.geek.designpattern.prototype.abstrtactprototype.B" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
       <module name="designpattern23" />
-      <extension name="coverage">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Test (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" runner="idea">
         <pattern>
           <option name="PATTERN" value="com.geek.designpattern.prototype.clone.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.geek.designpattern.decorator.v2.Test" />
+      <option name="MAIN_CLASS_NAME" value="com.geek.designpattern.prototype.clone.Test" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
       <module name="designpattern23" />
-      <extension name="coverage">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Test (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" runner="idea">
         <pattern>
           <option name="PATTERN" value="com.geek.designpattern.decorator.v2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.geek.designpattern.decorator.v1.Test" />
+      <option name="MAIN_CLASS_NAME" value="com.geek.designpattern.decorator.v2.Test" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
       <module name="designpattern23" />
-      <extension name="coverage">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" runner="idea">
         <pattern>
           <option name="PATTERN" value="com.geek.designpattern.decorator.v1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.geek.designpattern.structural.facade.subsystem.test" />
+      <option name="MAIN_CLASS_NAME" value="com.geek.designpattern.decorator.v1.Test" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
       <module name="designpattern23" />
-      <extension name="coverage">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" runner="idea">
         <pattern>
           <option name="PATTERN" value="com.geek.designpattern.structural.facade.subsystem.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
+      <option name="MAIN_CLASS_NAME" value="com.geek.designpattern.structural.facade.subsystem.test" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="designpattern23" />
+      <envs />
+      <method />
     </configuration>
-    <list>
-      <item itemvalue="Application.B" />
-      <item itemvalue="Application.Test (2)" />
-      <item itemvalue="Application.test" />
-      <item itemvalue="Application.Test (3)" />
-      <item itemvalue="Application.Test" />
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="0" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="SELECTED_CLOUD_DEVICE_CONFIGURATION_ID" value="0" />
+      <option name="SELECTED_CLOUD_DEVICE_PROJECT_ID" value="" />
+      <option name="IS_VALID_CLOUD_MATRIX_SELECTION" value="false" />
+      <option name="INVALID_CLOUD_MATRIX_SELECTION_ERROR" value="" />
+      <option name="IS_VALID_CLOUD_DEVICE_SELECTION" value="false" />
+      <option name="INVALID_CLOUD_DEVICE_SELECTION_ERROR" value="" />
+      <option name="CLOUD_DEVICE_SERIAL_NUMBER" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="0" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="SELECTED_CLOUD_DEVICE_CONFIGURATION_ID" value="0" />
+      <option name="SELECTED_CLOUD_DEVICE_PROJECT_ID" value="" />
+      <option name="IS_VALID_CLOUD_MATRIX_SELECTION" value="false" />
+      <option name="INVALID_CLOUD_MATRIX_SELECTION_ERROR" value="" />
+      <option name="IS_VALID_CLOUD_DEVICE_SELECTION" value="false" />
+      <option name="INVALID_CLOUD_DEVICE_SELECTION_ERROR" value="" />
+      <option name="CLOUD_DEVICE_SERIAL_NUMBER" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <module name="" />
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="depsClasspath" value="false" />
+      <setting name="passParentEnv" value="true" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <setting name="launchBrowser" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnitTestDiscovery" factoryName="JUnit Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Designpattern" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNGTestDiscovery" factoryName="TestNG Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher">
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
+      <method />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Application.B" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Test (2)" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Test (3)" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Test" />
+      <item index="4" class="java.lang.String" itemvalue="Application.test" />
     </list>
     <recent_temporary>
-      <list>
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.Test (3)" />
-        <item itemvalue="Application.test" />
-        <item itemvalue="Application.Test (2)" />
-        <item itemvalue="Application.B" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Application.test" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Test" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Test (3)" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Test (2)" />
+        <item index="4" class="java.lang.String" itemvalue="Application.B" />
       </list>
     </recent_temporary>
   </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -511,7 +981,6 @@
       <changelist id="e8696a4b-ad89-4596-a8c1-05172f8e6871" name="Default Changelist" comment="" />
       <created>1537111127363</created>
       <option name="number" value="Default" />
-      <option name="presentableId" value="Default" />
       <updated>1537111127363</updated>
       <workItem from="1537111130587" duration="606000" />
       <workItem from="1537344197974" duration="8220000" />
@@ -523,48 +992,42 @@
       <workItem from="1537538790906" duration="643000" />
       <workItem from="1537580829379" duration="2541000" />
       <workItem from="1537662725410" duration="1216000" />
+      <workItem from="1539742845835" duration="3784000" />
+      <workItem from="1539754482951" duration="124000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34093000" />
+    <option name="totallyTimeSpent" value="38001000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1" y="29" width="1922" height="1025" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="false" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49813432" visible="true" weight="0.26411074" />
-      <window_info id="Structure" order="1" sideWeight="0.5018657" side_tool="true" weight="0.25346112" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" sideWeight="0.5018657" side_tool="true" weight="0.25346112" />
-      <window_info id="Web" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.5184358" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.40111732" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.3385475" />
-      <window_info anchor="bottom" id="Spring" order="12" />
-      <window_info anchor="bottom" id="Java Enterprise" order="13" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Database" order="5" />
-      <window_info anchor="right" id="Theme Preview" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Maven Projects" order="8" />
-      <window_info anchor="right" id="Bean Validation" order="9" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32980973" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -597,9 +1060,7 @@
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/com/geek/designpattern/prototype/abstrtactprototype/A.java</url>
           <line>8</line>
-          <properties class="com.geek.designpattern.prototype.abstrtactprototype.A" method="clone">
-            <option name="EMULATED" value="true" />
-          </properties>
+          <properties class="com.geek.designpattern.prototype.abstrtactprototype.A" method="clone" />
           <option name="timeStamp" value="9" />
         </line-breakpoint>
       </breakpoints>
@@ -612,6 +1073,10 @@
         <watch expression="Object" language="JAVA" />
       </configuration>
     </watches-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="watch">
@@ -630,401 +1095,361 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/geek/ThreadandjucMainApplication.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/geek/designpattern/signleton/ThreadandjucMainApplication.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/geek/designpattern/singleton/LazyDoubleCheckSingleton.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/geekq/design/principle/liskovsubstitution/Rectangle.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="106" selection-start-line="7" selection-start-column="106" selection-end-line="7" selection-end-column="106" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/geek/designpattern/singleton/HungrySingleton.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/geekq/design/principle/liskovsubstitution/methodoutput/Base.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="18" column="9" selection-start-line="16" selection-start-column="7" selection-end-line="18" selection-end-column="9" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/geek/designpattern/singleton/StaticInnerClassSingleton.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/geekq/design/principle/liskovsubstitution/methodoutput/Child.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="15" column="47" selection-start-line="15" selection-start-column="47" selection-end-line="15" selection-end-column="47" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/lang/Class.class">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/geekq/design/principle/liskovsubstitution/methodoutput/Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="12892">
-          <caret line="664" column="26" selection-start-line="664" selection-start-column="26" selection-end-line="664" selection-end-column="26" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/geek/designpattern/singleton/T.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/geekq/design/principle/liskovsubstitution/methodinput/Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="64" selection-start-line="7" selection-start-column="64" selection-end-line="7" selection-end-column="64" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/geek/designpattern/singleton/LazySingleton.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/geekq/design/principle/singleresponsibility/CourseImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" column="57" lean-forward="true" selection-start-line="3" selection-start-column="57" selection-end-line="3" selection-end-column="57" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/geek/designpattern/singleton/README.md" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/geek/designpattern/singleton/EnumInstance.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/geekq/design/principle/singleresponsibility/FlyBird.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/geek/designpattern/singleton/ContainerSingleton.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/geekq/design/principle/singleresponsibility/ICourseContent.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="12" column="32" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/geek/designpattern/singleton/ThreadLocalInstance.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/geekq/design/principle/singleresponsibility/ICourseManager.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="18" column="33" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/lang/Object.class">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/geekq/design/principle/singleresponsibility/Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="24" column="74" lean-forward="true" selection-start-line="24" selection-start-column="74" selection-end-line="24" selection-end-column="74" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/geek/designpattern/prototype/Test.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/geekq/design/principle/singleresponsibility/WalkBird.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="56" selection-start-line="9" selection-start-column="56" selection-end-line="9" selection-end-column="56" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/geek/designpattern/prototype/abstrtactprototype/A.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/geekq/design/principle/singleresponsibility/ICourse.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" column="12" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3" column="19" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/geek/designpattern/prototype/clone/Pig.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/geekq/design/pattern/structural/facade/GiftExchangeService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="550">
-          <caret line="33" column="42" selection-start-line="33" selection-start-column="42" selection-end-line="33" selection-end-column="42" />
+        <state vertical-scroll-proportion="-1.0169492">
+          <caret line="3" column="19" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/geek/designpattern/prototype/clone/Test.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/geekq/design/principle/compositionaggregation/DBConnection.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="35" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/util/Date.class">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/geekq/design/principle/compositionaggregation/MySQLConnection.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="32" column="11" selection-start-line="32" selection-start-column="11" selection-end-line="32" selection-end-column="11" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/geek/designpattern/prototype/abstrtactprototype/B.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/geekq/design/principle/compositionaggregation/PostgreSQLConnection.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/geek/designpattern/prototype/Mail.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/geekq/design/principle/compositionaggregation/ProductDao.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="682">
-          <caret line="45" column="36" selection-start-line="45" selection-start-column="36" selection-end-line="45" selection-end-column="36" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/geek/designpattern/prototype/MailUtil.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/geekq/design/principle/compositionaggregation/Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/geek/designpattern/singleton/Test.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/geekq/design/principle/demeter/Boss.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="19" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/geek/designpattern/structural/facade/subsystem/Disk.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/geekq/design/principle/demeter/Course.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="5" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="9" selection-end-column="5" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/geek/designpattern/structural/facade/subsystem/CPU.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/geekq/design/principle/demeter/TeamLeader.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="uml://JAVA/com.geek.designpattern.structural.facade.subsystem.structural.facade">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>com.geek.designpattern.structural.facade.subsystem.structural.facade</OriginalElement>
-          <nodes>
-            <node x="" y="">com.geek.designpattern.structural.facade.subsystem.structural.facade.test</node>
-            <node x="" y="">com.geek.designpattern.structural.facade.subsystem.structural.facade.Computer</node>
-          </nodes>
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="56.0" y="53.0" />
-          <SelectedNodes />
-          <Categories>
-            <Category>Inner Classes</Category>
-          </Categories>
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/geekq/design/principle/demeter/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/geek/designpattern/structural/facade/subsystem/Computer.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/geekq/design/principle/dependenceinversion/ICourse.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/geekq/design/principle/interfacesegregation/Bird.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/geekq/design/principle/interfacesegregation/Dog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/geekq/design/principle/interfacesegregation/IAnimalAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/geekq/design/principle/interfacesegregation/IEatAnimalAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/geekq/design/principle/interfacesegregation/IFlyAnimalAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/geekq/design/principle/interfacesegregation/ISwimAnimalAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/geekq/design/principle/liskovsubstitution/methodinput/Base.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/geekq/design/principle/liskovsubstitution/methodinput/Child.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/geekq/design/principle/liskovsubstitution/Quadrangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/geekq/design/principle/openclose/ICourse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/geekq/design/principle/singleresponsibility/Bird.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/geekq/design/pattern/creational/prototype/clone/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/geekq/design/pattern/creational/prototype/clone/Pig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/geekq/design/pattern/creational/prototype/abstractprototype/B.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="uml://JAVA/com.geek.designpattern.structural.facade.subsystem">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>com.geek.designpattern.structural.facade.subsystem</OriginalElement>
-          <nodes>
-            <node x="" y="">com.geek.designpattern.structural.facade.subsystem.Computer</node>
-            <node x="" y="">com.geek.designpattern.structural.facade.subsystem.Disk</node>
-            <node x="" y="">com.geek.designpattern.structural.facade.subsystem.test</node>
-            <node x="" y="">com.geek.designpattern.structural.facade.subsystem.CPU</node>
-          </nodes>
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.1" x="99.0" y="138.0" />
-          <SelectedNodes />
-          <Categories>
-            <Category>Constructors</Category>
-            <Category>Methods</Category>
-            <Category>Properties</Category>
-            <Category>Inner Classes</Category>
-          </Categories>
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/geek/designpattern/structural/facade/subsystem/test.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/geekq/design/pattern/creational/prototype/Mail.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="31" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/geekq/design/pattern/creational/prototype/MailUtil.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/geek/designpattern/decorator/v1/v2/a.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/geek/designpattern/decorator/v2/ABattercake.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/geekq/design/pattern/creational/prototype/Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="33" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/geek/designpattern/decorator/v2/SausageDecorator.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/geekq/design/pattern/behavioral/iterator/Course.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="uml://JAVA/com.geek.designpattern.decorator.v2">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>com.geek.designpattern.decorator.v2</OriginalElement>
-          <nodes>
-            <node x="330.0" y="0.0">com.geek.designpattern.decorator.v2.ABattercake</node>
-            <node x="0.0" y="300.0">com.geek.designpattern.decorator.v2.EggDecorator</node>
-            <node x="292.0" y="300.0">com.geek.designpattern.decorator.v2.SausageDecorator</node>
-            <node x="134.0" y="126.0">com.geek.designpattern.decorator.v2.AbstractDecorator</node>
-            <node x="466.0" y="150.0">com.geek.designpattern.decorator.v2.Battercake</node>
-          </nodes>
-          <notes />
-          <edges>
-            <edge source="com.geek.designpattern.decorator.v2.AbstractDecorator" target="com.geek.designpattern.decorator.v2.ABattercake">
-              <point x="0.0" y="-62.0" />
-              <point x="290.0" y="101.0" />
-              <point x="378.0" y="101.0" />
-              <point x="-48.0" y="38.0" />
-            </edge>
-            <edge source="com.geek.designpattern.decorator.v2.SausageDecorator" target="com.geek.designpattern.decorator.v2.AbstractDecorator">
-              <point x="0.0" y="-50.0" />
-              <point x="444.0" y="275.0" />
-              <point x="368.0" y="275.0" />
-              <point x="78.0" y="62.0" />
-            </edge>
-            <edge source="com.geek.designpattern.decorator.v2.EggDecorator" target="com.geek.designpattern.decorator.v2.AbstractDecorator">
-              <point x="0.0" y="-50.0" />
-              <point x="136.0" y="275.0" />
-              <point x="212.0" y="275.0" />
-              <point x="-78.0" y="62.0" />
-            </edge>
-            <edge source="com.geek.designpattern.decorator.v2.Battercake" target="com.geek.designpattern.decorator.v2.ABattercake">
-              <point x="0.0" y="-38.0" />
-              <point x="562.0" y="101.0" />
-              <point x="474.0" y="101.0" />
-              <point x="48.0" y="38.0" />
-            </edge>
-          </edges>
-          <settings layout="Hierarchic Group" zoom="0.7079646017699115" x="329.0" y="200.0" />
-          <SelectedNodes>
-            <node>com.geek.designpattern.decorator.v2.Battercake</node>
-          </SelectedNodes>
-          <Categories>
-            <Category>Fields</Category>
-            <Category>Constructors</Category>
-            <Category>Methods</Category>
-            <Category>Properties</Category>
-          </Categories>
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/geekq/design/principle/dependenceinversion/Geekq.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        <state vertical-scroll-proportion="0.16528925">
+          <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/geek/designpattern/decorator/v2/Battercake.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/geekq/design/principle/dependenceinversion/Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
-          <folding>
-            <element signature="e#137#138#0" expanded="true" />
-            <element signature="e#164#165#0" expanded="true" />
-            <element signature="e#206#207#0" expanded="true" />
-            <element signature="e#230#231#0" expanded="true" />
-          </folding>
+        <state vertical-scroll-proportion="0.0">
+          <caret line="33" column="13" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/geek/designpattern/decorator/v2/AbstractDecorator.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/geekq/design/principle/dependenceinversion/FECourse.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/geek/designpattern/decorator/v1/Battercake.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/geekq/design/principle/dependenceinversion/PythonCourse.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding>
-            <element signature="e#102#103#0" expanded="true" />
-            <element signature="e#129#130#0" expanded="true" />
-            <element signature="e#155#156#0" expanded="true" />
-            <element signature="e#179#180#0" expanded="true" />
-          </folding>
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/geek/designpattern/decorator/v1/BattercakeWithEggSausage.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/geekq/design/principle/dependenceinversion/JavaCourse.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
-          <folding>
-            <element signature="e#158#159#0" expanded="true" />
-            <element signature="e#204#205#0" expanded="true" />
-            <element signature="e#246#247#0" expanded="true" />
-            <element signature="e#283#284#0" expanded="true" />
-          </folding>
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/geek/designpattern/decorator/v1/Test.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/geekq/design/principle/singleresponsibility/Method.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        <state vertical-scroll-proportion="-10.508474">
+          <caret line="31" column="25" selection-start-line="31" selection-start-column="25" selection-end-line="31" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/geek/designpattern/decorator/v1/BattercakeWithEgg.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/geekq/design/pattern/creational/singleton/Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="10" column="29" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
-          <folding>
-            <element signature="e#142#143#0" expanded="true" />
-            <element signature="e#188#189#0" expanded="true" />
-          </folding>
+        <state vertical-scroll-proportion="0.0">
+          <caret line="58" column="79" selection-start-line="58" selection-start-column="79" selection-end-line="58" selection-end-column="79" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/geek/designpattern/decorator/v2/EggDecorator.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/geekq/design/pattern/creational/singleton/EnumInstance.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
-          <folding>
-            <element signature="e#166#167#0" expanded="true" />
-            <element signature="e#200#201#0" expanded="true" />
-            <element signature="e#248#249#0" expanded="true" />
-            <element signature="e#295#296#0" expanded="true" />
-          </folding>
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="37" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/geek/designpattern/decorator/v2/Test.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/geekq/design/pattern/structural/adapter/Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        <state vertical-scroll-proportion="0.09917355">
+          <caret line="3" column="20" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/geek/designpattern/DesignPatternMainApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="13" column="58" selection-start-line="13" selection-start-column="58" selection-end-line="13" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1045,7 +1470,7 @@
       </state>
       <state key="FacetStructureConfigurable.UI">
         <settings>
-          <last-edited>Spring</last-edited>
+          <last-edited>No facets are configured</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -1068,7 +1493,7 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
-          <last-edited>1.8</last-edited>
+          <last-edited>1.7</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -1080,12 +1505,11 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>designpattern23</last-edited>
+          <last-edited>Designpattern</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
