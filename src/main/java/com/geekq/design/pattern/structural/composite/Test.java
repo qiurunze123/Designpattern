@@ -20,6 +20,8 @@ public class Test {
 
         CatalogComponent imoocMainCourseCatalog = new CourseCatalog("课程主目录",1);
         System.out.println("努力加油！赚钱养家！");
+        System.out.println("努力加油！赚钱养家！");
+
         imoocMainCourseCatalog.add(linuxCourse);
         imoocMainCourseCatalog.add(windowsCourse);
         imoocMainCourseCatalog.add(javaCourseCatalog);
