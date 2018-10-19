@@ -21,6 +21,8 @@ tmp/
 *.bak
 *.swp
 *~.nib
+.idea/
+*.iml
 local.properties
 .settings/
 .loadpath
@@ -55,6 +57,7 @@ local.properties
 
 # Tern plugin
 .tern-project
+.idea/workspace.xml
 
 # TeXlipse plugin
 .texlipse
