@@ -51,6 +51,7 @@
     how to 优化？
     
 ![整体流程](https://raw.githubusercontent.com/qiurunze123/imageall/master/设计模式4-2.png)
+
     提高可读性 提高可测试性 添加注释
     1.提高可读
     1.命名规范一下 hostName要能重复使用 将它单独抽离出来 getLastFieldOfHostName 
