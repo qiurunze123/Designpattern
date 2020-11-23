@@ -21,7 +21,6 @@ public class RandomIdGeneratorTest {
     @Test
     public void testIdGenerator(){
         System.out.println(IdGenerator.generate());
-
     }
 
     @Test

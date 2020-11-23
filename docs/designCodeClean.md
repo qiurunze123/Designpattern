@@ -79,7 +79,7 @@
     二提高代码可测试性
     RandomIdGeneratorTest
     
-    三添加注释
+    三添加注释RandomIdGeneratorTestRandomIdGeneratorTest
     RandomIdGenerator
     
     主要就是写清楚: 做什么、为什么、怎么做、怎么用，对一些边界条件、特殊情况进行说明，以及对函数输入、输出、异常进行说明
