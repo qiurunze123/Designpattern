@@ -1,6 +1,7 @@
 package com.fengsao.pattern.design.pattern.structural.proxy.staticproxy;
 
-import com.geekq.design.pattern.structural.proxy.Order;
+
+import com.fengsao.pattern.design.pattern.structural.proxy.Order;
 
 /**
  * Created by geekq

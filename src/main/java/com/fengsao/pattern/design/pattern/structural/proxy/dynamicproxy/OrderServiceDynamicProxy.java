@@ -1,7 +1,8 @@
 package com.fengsao.pattern.design.pattern.structural.proxy.dynamicproxy;
 
-import com.geekq.design.pattern.structural.proxy.Order;
-import com.geekq.design.pattern.structural.proxy.db.DataSourceContextHolder;
+
+import com.fengsao.pattern.design.pattern.structural.proxy.Order;
+import com.fengsao.pattern.design.pattern.structural.proxy.db.DataSourceContextHolder;
 
 import java.lang.reflect.InvocationHandler;
 import java.lang.reflect.Method;

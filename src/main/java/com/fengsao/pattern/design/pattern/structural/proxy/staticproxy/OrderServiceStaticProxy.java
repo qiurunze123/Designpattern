@@ -1,9 +1,9 @@
 package com.fengsao.pattern.design.pattern.structural.proxy.staticproxy;
 
-import com.geekq.design.pattern.structural.proxy.IOrderService;
-import com.geekq.design.pattern.structural.proxy.Order;
-import com.geekq.design.pattern.structural.proxy.OrderServiceImpl;
-import com.geekq.design.pattern.structural.proxy.db.DataSourceContextHolder;
+import com.fengsao.pattern.design.pattern.structural.proxy.IOrderService;
+import com.fengsao.pattern.design.pattern.structural.proxy.Order;
+import com.fengsao.pattern.design.pattern.structural.proxy.OrderServiceImpl;
+import com.fengsao.pattern.design.pattern.structural.proxy.db.DataSourceContextHolder;
 
 /**
  * Created by geekq
